@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-05 BZR 5577)-product   date = Čt 30. červenec 2015, 13:23:27 CEST
+
+BeginCmp
+TimeStamp = /55A6646B;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A4E7F7;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A4E898;
+Reference = C3;
+ValeurCmp = 22uF/6.3V;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A65EE4;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A67B3E;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A67AF1;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A6722A;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B7BF89;
+Reference = C8;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B7BDD6;
+Reference = C9;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A4E6B1;
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B79480;
+Reference = IC1;
+ValeurCmp = ATMEGA328-A;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B7F70B;
+Reference = J1;
+ValeurCmp = PWR;
+IdModule  = Mlab_Pin_Headers:Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55AA773F;
+Reference = J2;
+ValeurCmp = IGN;
+IdModule  = Mlab_Pin_Headers:Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BA1418;
+Reference = J3;
+ValeurCmp = USART;
+IdModule  = Mlab_Pin_Headers:Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BA0FE1;
+Reference = J4;
+ValeurCmp = PAD;
+IdModule  = Mlab_Pin_Headers:Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55AA2ACD;
+Reference = J5;
+ValeurCmp = ISP;
+IdModule  = Mlab_Pin_Headers:Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A6641E;
+Reference = L1;
+ValeurCmp = 10uH;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55AA71B9;
+Reference = Q1;
+ValeurCmp = IRF7413ZPBF;
+IdModule  = Housings_SOIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A65608;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A653FB;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A4F51C;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A507F8;
+Reference = U1;
+ValeurCmp = MPL3115A2;
+IdModule  = SMD_fork:LGA-MPL3115A;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B7B9C3;
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Crystal_HC52-U_Vertical;
+EndCmp
+
+EndListe

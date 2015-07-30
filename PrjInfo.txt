@@ -1,0 +1,14 @@
+[HumanName]
+Human friendly name of the module
+[Descr]
+Short description 
+Two lines are maximum
+[BuyLinkUST]
+Link to module's page on Universal Scientific Technologies.
+[BuyLinkTindie]
+Link to module's page on Tindie.
+[Author]
+nickname <email@example.com>
+[Dev]
+True
+[End]
