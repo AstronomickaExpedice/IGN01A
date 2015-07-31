@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-05 BZR 5577)-product   date = Čt 30. červenec 2015, 13:23:27 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-04-05 BZR 5577)-product   date = Pá 31. červenec 2015, 09:30:52 CEST
 
 BeginCmp
 TimeStamp = /55A6646B;
@@ -50,20 +50,6 @@ IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /55B7BF89;
-Reference = C8;
-ValeurCmp = 22pF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /55B7BDD6;
-Reference = C9;
-ValeurCmp = 22pF;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
 TimeStamp = /55A4E6B1;
 Reference = D1;
 ValeurCmp = 1N4007;
@@ -92,17 +78,10 @@ IdModule  = Mlab_Pin_Headers:Angled_1x02;
 EndCmp
 
 BeginCmp
-TimeStamp = /55BA1418;
+TimeStamp = /55BB6ED0;
 Reference = J3;
-ValeurCmp = USART;
-IdModule  = Mlab_Pin_Headers:Angled_1x03;
-EndCmp
-
-BeginCmp
-TimeStamp = /55BA0FE1;
-Reference = J4;
-ValeurCmp = PAD;
-IdModule  = Mlab_Pin_Headers:Angled_1x04;
+ValeurCmp = HEADER_1x11;
+IdModule  = Mlab_Pin_Headers:Angled_1x11;
 EndCmp
 
 BeginCmp
@@ -148,17 +127,24 @@ IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
+TimeStamp = /55BB713F;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BB71BD;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
 TimeStamp = /55A507F8;
 Reference = U1;
 ValeurCmp = MPL3115A2;
 IdModule  = SMD_fork:LGA-MPL3115A;
-EndCmp
-
-BeginCmp
-TimeStamp = /55B7B9C3;
-Reference = Y1;
-ValeurCmp = Crystal_Small;
-IdModule  = Crystals:Crystal_HC52-U_Vertical;
 EndCmp
 
 EndListe
