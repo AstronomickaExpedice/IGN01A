@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-05 BZR 5577)-product   date = Pá 31. červenec 2015, 09:30:52 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-04-05 BZR 5577)-product   date = Út 4. srpen 2015, 00:37:26 CEST
 
 BeginCmp
 TimeStamp = /55A6646B;
@@ -78,10 +78,10 @@ IdModule  = Mlab_Pin_Headers:Angled_1x02;
 EndCmp
 
 BeginCmp
-TimeStamp = /55BB6ED0;
+TimeStamp = /55BFE40D;
 Reference = J3;
-ValeurCmp = HEADER_1x11;
-IdModule  = Mlab_Pin_Headers:Angled_1x11;
+ValeurCmp = HEADER_1x09;
+IdModule  = Mlab_Pin_Headers:Angled_1x09;
 EndCmp
 
 BeginCmp
@@ -138,6 +138,27 @@ TimeStamp = /55BB71BD;
 Reference = R5;
 ValeurCmp = 10k;
 IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF87D4;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BFC4D6;
+Reference = R7;
+ValeurCmp = 0;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BFF9BA;
+Reference = R8;
+ValeurCmp = 0;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
 EndCmp
 
 BeginCmp
