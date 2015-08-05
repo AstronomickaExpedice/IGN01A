@@ -1,10 +1,9 @@
-Human friendly name of the module
+Parachute Ignition
 ==========
 
-Brought to you by: nickname <email@example.com>
+Brought to you by: ondra6ak <ondra6ak@mlab.cz>
 
-Short description 
-Two lines are maximum
+System for igniting parachute cull when altitude starts to drop
 
 Specifications
 --------------
@@ -13,12 +12,12 @@ Specification     | Value         | Unit | Note
 ----------------- | ------------- | ---- | --------------
 Operating Voltage |               | V    |
 Power Consumption |               | mA   |
-Dimensions        | 40.13 x 40.13   | mm   | width x length
+Dimensions        | 50.0 x 45.0   | mm   | width x length
 
 Description
 -----------
 
-!9.9;9.9;287.1;200.1;!(../SCH_PCB/module_SCH.svg)
+!9.9;9.9;287.1;200.1;!(../SCH_PCB/IGN01A_SCH.svg)
 
 Mechanical construction
 -----------------------
@@ -26,7 +25,7 @@ Mechanical construction
 Component placement
 -------------------
 
-![PCB top](../../CAM_AMA/module_TOP.svg "Top side of a PCB") ![PCB bottom](../../CAM_AMA/module_BOT.svg "Bottom side of a PCB")
+![PCB top](../../CAM_AMA/IGN01A_TOP.svg "Top side of a PCB") ![PCB bottom](../../CAM_AMA/IGN01A_BOT.svg "Bottom side of a PCB")
 
 $bom
 
